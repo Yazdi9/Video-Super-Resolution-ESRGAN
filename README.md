@@ -10,11 +10,18 @@ We extend the powerful ESRGAN to a practical restoration application (namely, Re
 <!---------------------------------- Demo videos --------------------------->
 ##  Demos Videos
 
-#### Bilibili
 
-- [大闹天宫片段](https://www.bilibili.com/video/BV1ja41117zb)
-- [Anime dance cut 动漫魔性舞蹈](https://www.bilibili.com/video/BV1wY4y1L7hT/)
-- [海贼王片段](https://www.bilibili.com/video/BV1i3411L7Gy/)
+<div align="center">
+    
+<https://user-images.githubusercontent.com/17445847/145706977-98bc64a4-af27-481c-8abe-c475e15db7ff.MP4>
+
+<https://user-images.githubusercontent.com/33378412/224786572-b165f784-5352-492a-8ccf-b40111a423cd.mp4>
+
+<https://user-images.githubusercontent.com/17445847/145707055-6a4b79cb-3d9d-477f-8610-c6be43797133.MP4>
+
+<https://user-images.githubusercontent.com/17445847/164960481-759658cf-fcb8-480c-b888-cecb606e8744.mp4>
+    
+</div>   
 
 #### YouTube
 
