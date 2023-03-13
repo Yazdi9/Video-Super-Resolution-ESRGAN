@@ -21,7 +21,7 @@ We extend the powerful ESRGAN to a practical restoration application (namely, Re
 ##  Dependencies and Installation
 
 - Python >= 3.7 
-- [PyTorch >= 1.7]
+- PyTorch >= 1.7
 
 ### Installation
 
@@ -61,10 +61,6 @@ There are usually three ways to inference Real-ESRGAN.
 1. [Colab Demo](https://colab.research.google.com/drive/1k2Zod6kSHEvraybHl50Lys0LerhyTMCo?usp=sharing) for Real-ESRGAN **|** [Colab Demo](https://colab.research.google.com/drive/1yNl9ORUxxlL4N0keJa2SEPB61imPQd1B?usp=sharing) for Real-ESRGAN (**anime videos**).
 
 ### Portable executable files (NCNN)
-
-You can download [Windows](https://github.com/xinntao/Real-ESRGAN/releases/download/v0.2.5.0/realesrgan-ncnn-vulkan-20220424-windows.zip) / [Linux](https://github.com/xinntao/Real-ESRGAN/releases/download/v0.2.5.0/realesrgan-ncnn-vulkan-20220424-ubuntu.zip) / [MacOS](https://github.com/xinntao/Real-ESRGAN/releases/download/v0.2.5.0/realesrgan-ncnn-vulkan-20220424-macos.zip) **executable files for Intel/AMD/Nvidia GPU**.
-
-This executable file is **portable** and includes all the binaries and models required. No CUDA or PyTorch environment is needed.<br>
 
 You can simply run the following command (the Windows example, more information is in the README.md of each executable files):
 
