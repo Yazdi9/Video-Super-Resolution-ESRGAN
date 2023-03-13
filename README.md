@@ -13,11 +13,9 @@ We extend the powerful ESRGAN to a practical restoration application (namely, Re
 
 <div align="center">
     
-<https://user-images.githubusercontent.com/17445847/145706977-98bc64a4-af27-481c-8abe-c475e15db7ff.MP4>
+<https://user-images.githubusercontent.com/17445847/145707458-04a5e9b9-2edd-4d1f-b400-380a72e5f5e6.MP4>
 
 <https://user-images.githubusercontent.com/33378412/224786572-b165f784-5352-492a-8ccf-b40111a423cd.mp4>
-
-<https://user-images.githubusercontent.com/17445847/145707055-6a4b79cb-3d9d-477f-8610-c6be43797133.MP4>
 
 <https://user-images.githubusercontent.com/17445847/164960481-759658cf-fcb8-480c-b888-cecb606e8744.mp4>
     
