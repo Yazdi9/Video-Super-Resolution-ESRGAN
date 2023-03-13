@@ -62,18 +62,9 @@ There are usually three ways to inference Real-ESRGAN.
 
 ### Portable executable files (NCNN)
 
-You can simply run the following command (the Windows example, more information is in the README.md of each executable files):
-
 ```bash
 ./realesrgan-ncnn-vulkan.exe -i input.jpg -o output.png -n model_name
 ```
-
-We have provided five models:
-
-1. realesrgan-x4plus  (default)
-2. realesrnet-x4plus
-3. realesrgan-x4plus-anime (optimized for anime images, small model size)
-4. realesr-animevideov3 (animation video)
 
 You can use the `-n` argument for other models, for example, `./realesrgan-ncnn-vulkan.exe -i input.jpg -o output.png -n realesrnet-x4plus`
 
