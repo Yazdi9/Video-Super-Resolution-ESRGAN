@@ -1,10 +1,6 @@
 
-Real-ESRGAN aims at developing **Practical Algorithms for General Image/Video Restoration**.<br>
-We extend the powerful ESRGAN to a practical restoration application (namely, Real-ESRGAN), which is trained with pure synthetic data.
 
-###  Real-ESRGAN: Training Real-World Blind Super-Resolution with Pure Synthetic Data
-
-[[Paper](https://arxiv.org/abs/2107.10833)] &emsp; <br>
+###  Real-ESRGAN: Blind Super-Resolution with Pure Synthetic Data
 
 
 <!---------------------------------- Demo videos --------------------------->
